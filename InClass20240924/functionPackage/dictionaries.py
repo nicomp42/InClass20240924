@@ -1,5 +1,8 @@
 # dictionaries.py
 
+# This was really fun and I will treasure this time together
+# with my peers 
+
 def demo():
     """
     Demonstrate basic dictionary stuff
