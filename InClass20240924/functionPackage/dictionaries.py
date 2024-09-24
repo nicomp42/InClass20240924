@@ -1,6 +1,6 @@
 # dictionaries.py
-
-from heapq import merge
+#This was really fun and I will treasure this time together
+#with my peers
 
 
 def demo():
