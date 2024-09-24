@@ -1,5 +1,5 @@
 # dictionaries.py
-
+# This was really fun and I will treasure this time together with my peers
 
 from audioop import add
 from re import X
